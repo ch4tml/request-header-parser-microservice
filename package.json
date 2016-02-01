@@ -1,0 +1,14 @@
+{
+  "name": "Request Header Parser Microservicee",
+  "version": "0.0.0",
+  "description": "Request Header Parser Microservice - FCC",
+  "main": "app.js",
+  "repository": "",
+  "author": "Tom ch4tml",
+  "dependencies": {
+    "async": "~0.2.8",
+    "ejs": "^2.4.1",
+    "express": "~3.2.4",
+    "socket.io": "~0.9.14"
+  }
+}
