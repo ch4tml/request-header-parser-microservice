@@ -1,5 +1,5 @@
 {
-  "name": "Request Header Parser Microservicee",
+  "name": "request-header-parser-microservicee",
   "version": "0.0.0",
   "description": "Request Header Parser Microservice - FCC",
   "main": "app.js",
@@ -10,5 +10,10 @@
     "ejs": "^2.4.1",
     "express": "~3.2.4",
     "socket.io": "~0.9.14"
+  },
+    "engines": {
+      "node": "4.1.1",
+      "npm":  "2.14.4"
   }
+}
 }
